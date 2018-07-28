@@ -1,0 +1,14 @@
+ Volume in drive C is System
+ Volume Serial Number is 983C-5FEA
+
+ Directory of C:\Users\10056685\Desktop\CICD_Setup\JobDetails\CI_Custom_Gerrit\C++Project
+
+28-07-2018  22:59    <DIR>          .
+28-07-2018  22:59    <DIR>          ..
+28-07-2018  22:59                 0 chinky.txt
+28-07-2018  00:40             8,944 hello
+28-07-2018  22:48               699 Hello.class
+28-07-2018  22:24               228 Hello.cpp
+28-07-2018  22:41               200 Hello.java
+               5 File(s)         10,071 bytes
+               2 Dir(s)  341,878,169,600 bytes free
